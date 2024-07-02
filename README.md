@@ -5,6 +5,11 @@
 # Then run
 `python mcr.py` and fill in the arguments.
 
+# TEST ARGUMENTS
+Threads: 20
+Start IP: 45.59.171.0
+End IP: 45.59.200.0
+
 Minecraft server bruteforcer
 
 Multi-threaded minecraft server finder.
