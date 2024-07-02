@@ -1,5 +1,8 @@
 # MCRadar
 
+Video of it::
+https://gyazo.com/2cd65c44378247ddfaf010d6003dcb0a
+
 # TO INSTALL RUN THIS COMMAND IN WORKING DIRECTORY
 `pip install -r requirements.txt`
 # Then run
