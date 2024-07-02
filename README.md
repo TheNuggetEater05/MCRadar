@@ -1,4 +1,10 @@
 # MCRadar
+
+# TO INSTALL RUN THIS COMMAND IN WORKING DIRECTORY
+`pip install -r requirements.txt`
+# Then run
+`python mcr.py` and fill in the arguments.
+
 Minecraft server bruteforcer
 
 Multi-threaded minecraft server finder.
